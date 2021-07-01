@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Crush àaaaa',
-    introDesc: ` Việt Nam có hơn 90 triệu người mà em lại biết được chị thì có gọi là may mắn quá khonggg nhờ!!!
+    introDesc: ' Việt Nam có hơn 90 triệu người mà em lại biết được chị thì có gọi là may mắn quá khonggg nhờ!!!
     từ thích thích
     thành iu iu 
-    rùi thương thươngg,
+    rùi thương thươngg',
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên ',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
